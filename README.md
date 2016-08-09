@@ -1,4 +1,4 @@
-Target Oxbridge: Engineering Seminar for Summer Development Programm
+Target Oxbridge: Engineering Seminar for Summer Development Program
 =====================
 
 A Tutorial on Simple Machine Learning Methods
@@ -11,10 +11,8 @@ Content
 
 - The interactive notebooks are in the main folder.
 
-Viewing the notebooks online
+Notebooks
 ----------------------------
-The content of the notebooks can be viewed online through nbviewer.ipython.org.
-This is **not interactive**. You need to install Python on your computer to use the notebooks interactively.
 
 - [0 - Python Intro.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/temporaer/tutorial_ml_gkbionics/master/0%2520-%2520Python%2520Intro.ipynb)
 - [1 - PCA.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/temporaer/tutorial_ml_gkbionics/master/1%2520-%2520PCA.ipynb)
