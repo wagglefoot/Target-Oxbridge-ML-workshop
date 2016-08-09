@@ -3,7 +3,7 @@ Target Oxbridge: Engineering Seminar for Summer Development Program
 
 A Tutorial on Simple Machine Learning Methods
 
-Edited by Neil Dhir and original content by: Hannes Schulz, Andreas Mueller and Nenard Birešev.
+Forked and edited by @wagglefoot, with original content by: Hannes Schulz, Andreas Mueller and Nenard Birešev.
 
 Content
 -------
